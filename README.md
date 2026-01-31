@@ -1,7 +1,11 @@
 # Shop.CO — Fashion E-Commerce Website
 
 <p align="center">
-  <img src="[assets/Hero_image.png](https://github.com/maheeszeeshan521-jpg/Ecommerce_Design/blob/main/Homepage.jpg)" alt="Shop.CO - Find Clothes That Match Your Style" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/maheeszeeshan521-jpg/Ecommerce_Design/main/Homepage.jpg"
+    alt="Shop.CO - Find Clothes That Match Your Style"
+    width="100%"
+  />
 </p>
 
 A modern, responsive fashion e-commerce web application where users can browse and shop for clothing that matches their style. Built with HTML, Tailwind CSS, and Vite.
